@@ -1,0 +1,252 @@
+Attributes
+
+1)Add a tooltip to the paragraph below with the text "This is Html".
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Welcome to web development.</p>
+
+</body>
+</html>
+
+2)Change the size of the image to 250 pixels wide and 400 pixels tall.
+<!DOCTYPE html>
+<html>
+<body>
+
+<img src="myimg.png" width="104" height="142">
+
+</body>
+</html>
+
+3)Transform the text below into a link that goes to "https://www.google.com".
+<!DOCTYPE html>
+<html>
+<body>
+
+This is a link
+
+</body>
+</html>
+
+4)The image below does not exist. Specify the alternate text "html" for the image.
+<!DOCTYPE html>
+<html>
+<body>
+
+<img src="img.jpg" width="135" height="50">
+
+</body>
+</html>
+
+
+Headings
+1)Add a heading to the paragraph with the text "London".
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+
+</body>
+</html>
+
+2)Add a horizontal rule between the heading and the paragraph.
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>London</h1>
+
+<p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+
+</body>
+</html>
+
+3)Add six headings to the document with the text "Hello".
+Start with the most important heading and end with the least important heading.
+<!DOCTYPE html>
+<html>
+<body>
+
+</body>
+</html>
+
+4)Mark up the following text with appropriate tags: 
+"Universal Studios Presents" is the most important content. 
+"Jurassic Park" is the next most important content. 
+"About" is of lesser importance than Jurassic Park. 
+The last sentence is just a paragraph.
+<!DOCTYPE html>
+<html>
+<body>
+
+Universal Studios Presents
+
+Jurassic Park
+
+About
+
+On the Island of Isla Nublar, a new park has been built: Jurassic Park is a theme park of cloned dinosaurs!!
+
+</body>
+</html>
+
+Paragraph
+
+1)Fix the display of the poem below. Display the poem over 4 lines using <br> elements.
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>
+Welcome to web development.
+Welcome to web development.
+Welcome to web development.
+Welcome to web development.
+</p>
+
+</body>
+</html>
+
+2)Fix the display of this poem. Display the poem as suggested in the code below using <pre>.
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>
+
+   Welcome to web development.
+
+   Welcome to web development.
+
+   Welcome to web development.
+
+   Welcome to web development.
+
+</p>
+
+</body>
+</html>
+
+
+Styles
+1)Change the text color of the paragraph to "blue".
+<!DOCTYPE html>
+<html>
+<body>
+
+<p style="color:red">This is a paragraph.</p>
+
+</body>
+</html>
+
+2)Change the font of the paragraph to "courier".
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+3)Center align the paragraph.
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+4)Change the text size of the paragraph to 50px.
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+5)Change the background color of the page below to yellow.
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>This is a heading</h1>
+
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+Text Formatting
+1)Add extra importance to the word "degradation" in the paragraph below.
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>What Does WWF Do?</h1>
+
+<p>WWF's mission is to stop the degradation of our planet's natural environment.</p>
+
+</body>
+</html>
+
+2)Highlight the word "FUN" in the text below.
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>HTML is FUN to learn!</p>
+
+</body>
+</html>
+
+3)Apply subscript formatting to the number "2" in the text below.
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>H2O is the scientific term for water.</p>
+
+</body>
+</html>
+
+4)Add a line through (strikeout) the letters "blue" in the text below.
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>My favorite color is blue red.</p>
+
+</body>
+</html>
+
+Comments
+1)Remove the comment tags around the <p> element:
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- <p>This is a paragraph.</p> -->
+
+</body>
+</html>
+
+2)Add comment tags around the "Do not display this text in the browser" text:
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This is a paragraph.</p>
+Do not display this text in the browser
+<p>This is another paragraph</p>
+
+</body>
+</html>
+
